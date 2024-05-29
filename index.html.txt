@@ -12,6 +12,7 @@
 <p>A new line in our file!</p>
 <p>New changes added from git hub editor</p>
 <p>Second change added from git hub editor</p>
+<p>third change added from git hub editor</p>
 <div><img src="img_hello_git.png" alt="Hello Git" style="width:100%;max-width:640px"></div>
 
 </body>
