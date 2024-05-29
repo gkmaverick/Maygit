@@ -15,6 +15,8 @@
 <p>third change added from git hub editor</p>
 <div><img src="img_hello_git.png" alt="Hello Git" style="width:100%;max-width:640px"></div>
 <p>changes made via Atom editor</p>
+<p>changes made for new branch firstBranch</p>
+<p>changes made for local new branch </p>
 
 
 </body>
